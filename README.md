@@ -4,6 +4,7 @@ Company - CODTECH IT SOLUTIONS
 ID -CT08DS8479
 Domain - Python programming 
 Duration- September 25th,2024 to October 25
+Mentor name - SANTOSH SIR 
 
 ****OVERVIEW OF THE PROJECT**** 
 
